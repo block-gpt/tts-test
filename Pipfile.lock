@@ -1,0 +1,34 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "328d4660d4600673cf4a50b8fa75b5d61f6f17f5c999eec2e29bef4fd4ed28e7"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_full_version": "3.10.5",
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "azure-cognitiveservices-speech": {
+            "hashes": [
+                "sha256:5ff042d81d7ff4e50be196419fcd2042e41a97cebb229e0940026e1314ff7751",
+                "sha256:a412c6c5bc528548e0ee5fc5fe89fb8351307d0c5ef7ac4d506fab3d58efcb4a",
+                "sha256:a6c277ec9c93f586dcc74d3a56a6aa0259f4cf371f5e03afcf169c691e2c4d0c",
+                "sha256:ac52c4549062771db5694346c1547334cf1bb0d08573a193c8dcec8386aa491d",
+                "sha256:ceb5a8862da4ab861bd06653074a4e5dc2d66a54f03dd4dd9356da7672febbce",
+                "sha256:d5cba32e9d8eaffc9d8f482c00950bc471f9dc4d7659c741c083e5e9d831b802"
+            ],
+            "index": "pypi",
+            "version": "==1.28.0"
+        }
+    },
+    "develop": {}
+}
